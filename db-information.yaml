@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: db-information
+data:
+  dbname: wordpress
+  user: root
